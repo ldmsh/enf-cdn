@@ -6,6 +6,13 @@
     display: none !important;
 }
 
+div.idpc_autocomplete > input {
+    border-radius: 0pm !important;
+    font-size: inhert !important;
+    border: inherit !important;
+    padding: inhert !important;
+}
+
 div.idpc_autocomplete {
     position: relative;
     margin: 0;
