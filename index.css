@@ -2,6 +2,10 @@
     display: none;
 }
 
+.idpc_country.hidden {
+    display: none;
+}
+
 div.idpc_autocomplete {
     position: relative;
     margin: 0;
@@ -84,8 +88,4 @@ div.idpc_autocomplete > .idpc-unhide {
 div.idpc_autocomplete > .idpc-unhide:hover {
     color: #2a4a7f;
     text-decoration: underline;
-}
-
-.idpc_country {
-    visibility: hidden !important;
 }
