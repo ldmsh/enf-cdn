@@ -3,7 +3,7 @@
 }
 
 .idpc_country {
-    display: none;
+    display: none !important;
 }
 
 div.idpc_autocomplete {
