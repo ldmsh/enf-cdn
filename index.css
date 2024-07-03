@@ -85,3 +85,7 @@ div.idpc_autocomplete > .idpc-unhide:hover {
     color: #2a4a7f;
     text-decoration: underline;
 }
+
+.idpc_country {
+    visibility: hidden !important;
+}
